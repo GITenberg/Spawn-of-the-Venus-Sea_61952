@@ -1,0 +1,33 @@
+_repo: Spawn-of-the-Venus-Sea_61952
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Morey, Leo
+    alias: Morey y Pena, Leopoldo Raul
+    birthdate: 1889
+    deathdate: 1965
+    gutenberg_agent_id: '32299'
+    url: http://www.gutenberg.org/2009/agents/32299
+creator:
+  author:
+    agent_name: Walton, Harry
+    gutenberg_agent_id: '51602'
+    url: http://www.gutenberg.org/2009/agents/51602
+description: ''
+gutenberg_issued: '2020-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- GITenberg
+title: Spawn of the Venus Sea
+url: http://www.gutenberg.org/ebooks/61952
